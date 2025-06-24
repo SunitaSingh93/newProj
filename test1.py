@@ -1,2 +1,1 @@
-print ('Hello')
-print('Welcome to Git')
+print('Welcome')
